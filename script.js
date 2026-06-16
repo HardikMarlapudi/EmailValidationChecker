@@ -8,7 +8,7 @@ function verifyEmail() {
     // An empty string value
     if (emailInput === "") {
         window.confirm(`You haven't entered an email address, are you sure you want to continue?`);
-        output.innerHTML = `Please enter an email address!!!`;
+        output.innerHTML = `Email cannot be blank!!!`;
         output.style.color = `red`;
         return;
     }
