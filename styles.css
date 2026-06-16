@@ -1,0 +1,53 @@
+* {
+    background-color: skyblue;
+    text-align: center;
+}
+
+#title {
+    font-size: 30px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    cursor: pointer;
+}
+
+.container {
+    display: inline-flex;
+    justify-content: center;
+    text-align: center;
+    border: 2px solid;
+    background-color: aliceblue;
+    border-color: aliceblue;
+    border-radius: 1rem;
+    padding: 120px 50px;
+    width: auto;
+    height: auto;
+    gap: 5px;
+}
+
+#emailInput {
+    font-size: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+    border-color: skyblue;
+    border-radius: 0.5rem;
+    cursor: pointer;
+}
+
+#emailInput:hover {
+    background-color: lightblue;
+}
+
+#output {
+    font-size: 17px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+}
+
+#submitBtn {
+    font-size: 25px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    border-color: green;
+    border-radius: 0.5rem;
+    background-color: green;
+    color: white;
+    cursor: pointer;
+}
