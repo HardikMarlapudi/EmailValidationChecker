@@ -18,7 +18,7 @@
     border-color: aliceblue;
     border-radius: 1rem;
     padding: 120px 50px;
-    width: 50%;
+    width: auto;
     height: auto;
     gap: 5px;
 }
@@ -29,6 +29,7 @@
     font-weight: bold;
     border-color: skyblue;
     border-radius: 0.5rem;
+    padding: 10px 10px;
     cursor: pointer;
 }
 
@@ -47,8 +48,8 @@
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     border-color: green;
     border-radius: 0.5rem;
-    background-color: green;
     padding: 10px 20px;
+    background-color: green;
     color: white;
     cursor: pointer;
 }
