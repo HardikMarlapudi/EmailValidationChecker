@@ -18,7 +18,7 @@
     border-color: aliceblue;
     border-radius: 1rem;
     padding: 120px 50px;
-    width: auto;
+    width: 50%;
     height: auto;
     gap: 5px;
 }
@@ -48,6 +48,7 @@
     border-color: green;
     border-radius: 0.5rem;
     background-color: green;
+    padding: 10px 20px;
     color: white;
     cursor: pointer;
 }
