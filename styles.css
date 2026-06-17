@@ -6,13 +6,11 @@
 #title {
     font-size: 30px;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    cursor: pointer;
 }
 
 .container {
     display: inline-flex;
     justify-content: center;
-    text-align: center;
     border: 2px solid;
     background-color: aliceblue;
     border-color: aliceblue;
@@ -35,12 +33,6 @@
 
 #emailInput:hover {
     background-color: lightblue;
-}
-
-#output {
-    font-size: 17px;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
-    font-weight: bold;
 }
 
 #submitBtn {
