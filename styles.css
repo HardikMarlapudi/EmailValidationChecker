@@ -25,6 +25,7 @@
     font-size: 20px;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-weight: bold;
+    border: none;
     border-color: skyblue;
     border-radius: 0.5rem;
     padding: 10px 10px;
@@ -38,6 +39,7 @@
 #submitBtn {
     font-size: 25px;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
+    border: none;
     border-color: green;
     border-radius: 0.5rem;
     padding: 10px 20px;
