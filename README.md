@@ -1,3 +1,3 @@
 # EmailValidationChecker
 
-<img width="956" height="876" alt="image" src="https://github.com/user-attachments/assets/5d7fa5fb-add7-40bb-a4b0-63240e4429ca" />
+<img width="3024" height="1656" alt="image" src="https://github.com/user-attachments/assets/027a77ff-8489-4c86-9659-de17bb5363e9" />
