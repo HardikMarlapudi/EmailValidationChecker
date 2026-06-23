@@ -16,7 +16,7 @@ function verifyEmail() {
         return;
     }
 
-    // Length fo the email address
+    // Length for the email address
     if (email.length < 5) {
         window.confirm(`Are you sure that you want to validate your email address?`);
         output.innerHTML = `Email address is too short please try another one!!!`;
